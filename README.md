@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prarambhi(https://github.com/Prarambhi)
+- 👋 Hi, I’m [Prarambhi](https://github.com/Prarambhi)
 - 👀 I’m interested in coding and learning
 - 🌱 I’m currently learning to navigate in the tech world
 - 💞️ I’m looking to collaborate on projects
